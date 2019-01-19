@@ -6,5 +6,5 @@ setup(
 	author='zl',
 	author_email='zl@envbase.com',
 	url='http://www.baidu.com',
-	py_modules=['demo'],
+	py_modules=['test'],
 )
